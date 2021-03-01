@@ -1,0 +1,9 @@
+#contenedor{width: 90%;margin-left: auto;margin-right: auto; font-family: Arial; font-size: 30px; color: blue;}
+#encabezado{width: 100%;}
+.logo{width: 20%;height: 100px;background-color: #ff33bb;float: left;}
+.titulo{width: 80%;height: 100px;background-color: #ff66cc;float: left;}
+#menu{width: 100%;height: 50px;background-color: #ff80d5;clear: both;}
+#contenido{width: 100%}
+.imgprincipal{width: 100%;height: 400px;background-color: #ff99dd}
+.inferior{width: 25%; height: 300px;background-color: #ffb3e6;float: left;}
+.pie{width: 100%; height: 75px;background-color: #ffccee;}
